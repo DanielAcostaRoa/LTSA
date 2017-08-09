@@ -8,4 +8,6 @@ El algoritmo recibe de entrada un conjunto de puntos X que describen una varieda
 
 ### Resultados
 
+Observemos en la imagen un ejemplo de una curva en el espacio tridimensional. Mediante la aplicación del algoritmo LTSA observamos la gráfica que compara las coordenadas reales contra las coordenadas estimadas por el LTSA, observamos una buena aproximación de las coordenadas.
+
 ![im3](https://user-images.githubusercontent.com/30848298/29102260-75c1414a-7c7d-11e7-8b6c-ef115bbe63aa.png)
