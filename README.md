@@ -11,3 +11,6 @@ El algoritmo recibe de entrada un conjunto de puntos X que describen una varieda
 Observemos en la imagen un ejemplo de una curva en el espacio tridimensional. Mediante la aplicación del algoritmo LTSA observamos la gráfica que compara las coordenadas reales contra las coordenadas estimadas por el LTSA, observamos una buena aproximación de las coordenadas.
 
 ![im3](https://user-images.githubusercontent.com/30848298/29102260-75c1414a-7c7d-11e7-8b6c-ef115bbe63aa.png)
+
+Aplicamos el algoritmo LTSA una base de datos de imágenes de rostros. La base de datos consta de 600 imágenes de 28x20 pixeles del rostro de una persona vista desde varios ángulos, distinta iluminación y diversos gestos. Cada imagen se considero como un vector de dimensión 560 y se le aplicó el algoritmo LTSA reduciendo la dimensión a dos. Podemos observar en la imágen de abajo como el algoritmo conserva cierta estructura separando las imágenes idéntificando diversos gestos.
+
