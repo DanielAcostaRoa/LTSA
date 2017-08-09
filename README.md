@@ -18,3 +18,4 @@ Aplicamos el algoritmo LTSA una base de datos de imágenes de rostros. La base d
 
 Por último mostramos la estructura encontrada al aplicar el algoritmo LTSA a la base de datos MNIST restringiendo sólo a los dígitos 0s y 1s.
 
+![im50](https://user-images.githubusercontent.com/30848298/29103584-11af3aaa-7c86-11e7-8424-3138b11f57c7.png)
